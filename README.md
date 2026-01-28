@@ -2,7 +2,7 @@
 
 Find Lenten fish fries in the Pittsburgh area. Search by location, filter by features (homemade pierogies, wheelchair accessible, alcohol, takeout), check schedules, and get venue details.
 
-An [Agent Skill](https://skills.sh) — works with Claude Code, Clawdbot, Cursor, Windsurf, Cline, and any agent that supports the open skills format.
+An [Agent Skill](https://skills.sh) — works with Claude Code, Cursor, Windsurf, Cline, Goose, and any agent that supports the open skills format.
 
 ## Installation
 

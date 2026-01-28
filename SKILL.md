@@ -4,8 +4,7 @@ description: Find Pittsburgh-area Lenten fish fries. Search by location, filter 
 version: 1.0.0
 homepage: https://codeforpittsburgh.github.io/fishfrymap/
 metadata:
-  clawdbot:
-    emoji: 🐟
+  emoji: 🐟
   tags:
     - pittsburgh
     - local
